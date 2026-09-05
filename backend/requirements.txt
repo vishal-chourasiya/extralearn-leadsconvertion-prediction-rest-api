@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+joblib
+Werkzeug
+flask
+gunicorn
+requests
+uvicorn
+streamlit
